@@ -1,0 +1,8 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor workspace files
+.vscode/*
+!.vscode/extensions.json
